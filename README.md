@@ -4,8 +4,6 @@ A beginner-friendly React app for adding, completing, and searching tasks. Tasks
 
 ![Screenshot of the completed Task Manager](./docs/screenshot.png)
 
-> Add a screenshot of the running app at `docs/screenshot.png` (or update this path) so the README shows the finished UI.
-
 ## Features
 
 - **Add tasks** from a labeled form. `useId` gives the input a unique id so the label stays connected for accessibility.
